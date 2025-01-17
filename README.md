@@ -1,2 +1,2 @@
 # Exam-Marks-Prediction
-Exam marks prediction using Linear Regression
+Prediction of exam scores utilizing Linear Regression. The dataset under consideration comprises 201 rows and 4 columns (hours, age, internet, and marks). Initially, it is essential to eliminate any NA values from the dataset. Following this, the dataset must be divided into input and output variables. Once the segregation is complete, the dataset will be employed to train a Linear Regression model, a type of machine learning algorithm. After the training phase, the model will be used to predict marks based on the variables of hours, age, and internet usage.
